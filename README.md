@@ -9,7 +9,7 @@
 - Graphs
 
 ## Language:
-C / C++ / Java
+C 
 
 ## Goal:
 Improving problem-solving skills for placements 🚀
